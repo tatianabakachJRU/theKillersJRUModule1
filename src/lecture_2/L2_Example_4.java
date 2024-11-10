@@ -1,4 +1,4 @@
-package module_1.lecture_2;
+package lecture_2;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;

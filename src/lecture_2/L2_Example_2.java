@@ -1,4 +1,4 @@
-package module_1.lecture_2;
+package lecture_2;
 
 public class L2_Example_2 {
 
