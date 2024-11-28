@@ -9,3 +9,4 @@
 - [Лекция_5 Массивы](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_5)
 - [Лекция_6 Многомерные массивы](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_6)
 - [Лекция_7 Функции/Методы](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_7)
+- [Лекция_8 Работа со строками](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_8)
