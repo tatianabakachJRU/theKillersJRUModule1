@@ -6,5 +6,8 @@ public class L8_Example_1 {
         final int MAX_CATS = 100;
         final String APP_NAME = "Cat app";
 
+        System.out.println(MAX_CATS);
+        System.out.println(APP_NAME);
+
     }
 }
