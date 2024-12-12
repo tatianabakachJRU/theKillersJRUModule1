@@ -11,6 +11,7 @@
 - [Лекция_7 Функции/Методы](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_7)
 - [Лекция_8 Работа со строками](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_8)
 - [Лекция_9 Типы данных. Знакомство с ООП](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_9)
+- [Лекция_10 Объекты](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_10)
 
 
 ## Факультативы
