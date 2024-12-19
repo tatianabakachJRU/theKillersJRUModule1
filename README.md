@@ -14,6 +14,7 @@
 - [Лекция_10 Объекты](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_10)
 - [Лекция_11 Классы и static](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_11)
 - [Лекция_12 Списки и Generics](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_12)
+- [Лекция_13 Коллекции(часть 1)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_13)
 
 
 ## Факультативы
