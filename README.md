@@ -20,3 +20,4 @@
 
 ## Факультативы
 - [Факультатив_1 Игра Виселица](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/elective_1)
+- [Факультатив_2 Коллекции, Система для управления библиотекой](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/elective_2)
