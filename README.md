@@ -15,7 +15,8 @@
 - [Лекция_11 Классы и static](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_11)
 - [Лекция_12 Списки и Generics](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_12)
 - [Лекция_13 Коллекции(часть 1)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_13)
-- [Лекция_13 Коллекции(часть 2)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_14)
+- [Лекция_14 Коллекции(часть 2)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_14)
+- [Лекция_15 Singleton, enum, switch](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_15)
 
 
 ## Факультативы
