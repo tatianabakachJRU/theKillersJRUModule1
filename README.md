@@ -18,7 +18,7 @@
 - [Лекция_14 Коллекции(часть 2)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_14)
 - [Лекция_15 Singleton, enum, switch](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_15)
 - [Лекция_16 Исключения(часть 1)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_16)
-- [Лекция_16 Исключения(часть 2)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_17)
+- [Лекция_17 Исключения(часть 2)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_17)
 
 
 ## Факультативы
