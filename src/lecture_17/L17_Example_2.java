@@ -13,7 +13,7 @@ public class L17_Example_2 {
                 String string = scanner.nextLine();
                 System.out.println(string);
             }
-        } catch (FileNotFoundException ex){
+        } catch (Exception ex){
             ex.printStackTrace();
         }
     }
