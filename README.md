@@ -21,6 +21,7 @@
 - [Лекция_17 Исключения(часть 2)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_17)
 - [Лекция_18 Потоки ввода-вывода(часть 1)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_18)
 - [Лекция_19 Потоки ввода-вывода(часть 2)](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_19)
+- [Лекция_20 Работа с Датой и Временем](https://github.com/tatianabakachJRU/theKillersJRUModule1/tree/main/src/lecture_20)
 
 
 ## Факультативы
