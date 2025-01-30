@@ -10,5 +10,7 @@ public class LocalDateTimeExample_8 {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("EEEE, dd MMMM");
         String format = localDate.format(formatter);
         System.out.println(format);
+
+
     }
 }
